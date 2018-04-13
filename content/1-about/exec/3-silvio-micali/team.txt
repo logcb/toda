@@ -1,0 +1,17 @@
+Title: Silvio Micali
+
+----
+
+About: Silvio Micali has received his Laurea in Mathematics from the University of Rome, and his PhD in Computer Science from the University of California at Berkeley. Since 1983 he has been on the MIT faculty, in Electrical Engineering and Computer Science Department, where he is Ford Professor of Engineering. Silvio’s research interests are cryptography, zero knowledge, pseudorandom generation, secure protocols, and mechanism design. Silvio is the recipient of the Turing Award (in computer science), of the Goedel Prize (in theoretical computer science) and the RSA prize (in cryptography). He is a member of the National Academy of Sciences, the National Academy of Engineering, and the American Academy of Arts and Sciences.
+
+----
+
+Position: 
+
+----
+
+Phone: 
+
+----
+
+Email: 

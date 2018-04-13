@@ -1,0 +1,17 @@
+Title: Sergey Gorbunov
+
+----
+
+Position: 
+
+----
+
+About: Sergey’s interests range from cryptography to design of secure large scale systems, computer networks, protocols and blockchains. He received a PhD from MIT where he was the recipient of the Microsoft PhD fellowship. His dissertation was on building advanced cryptographic protocols using lattice-based cryptography for which he received Sprowls Doctoral Thesis Prize for best PhD thesis in CS at MIT. Prior to joining Algorand, Sergey was an Assistant Professor at the University of Waterloo. Before that, he was the founder and CTO of StealthMine, and spent some time at IBM T.J. Watson Research Centre.
+
+----
+
+Phone: 
+
+----
+
+Email: 

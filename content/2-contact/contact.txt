@@ -1,0 +1,25 @@
+Title: Contact
+
+----
+
+Menu-title: 
+
+----
+
+Contact-title: Contact
+
+----
+
+Contact-subtitle: 
+
+----
+
+Youremail: your@email.com
+
+----
+
+Emailsubject: NEW Message
+
+----
+
+Cover-img: 

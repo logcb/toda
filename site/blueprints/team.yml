@@ -1,0 +1,25 @@
+title:          Team Member
+icon:           user
+pages:          false
+files:          true
+fields:
+    title:
+      label:    Name
+      type:     title
+    position:
+      label:    Position
+      type:     text
+      required: false
+    about:
+      label:    About
+      type:     textarea
+    phone:
+      label:    Phone Number
+      type:     tel
+      required: false
+      width:    1/2
+    email:
+      label:    Email Address
+      type:     email
+      required: false
+      width:    1/2

@@ -1,0 +1,152 @@
+Title: Home
+
+----
+
+Menu-title: 
+
+----
+
+Cover-title: No Boundaries
+
+----
+
+Cover-subtitle: Security, Efficiency, Confidentiality and Scalability by Design
+
+----
+
+Cover-img: 5.jpg
+
+----
+
+Imageblock-title: The Protocol
+
+----
+
+Imageblock-enable: true
+
+----
+
+Imageblock-text: The TODA protocol is a layer-zero, ledger-less, fully decentralized and distributed digital ownership management and value transfer protocol.  As the evolution of TCP/IP for blockchain infrastructures, it enables every ledger-based blockchain to scale to billions of users and handle millions of on-chain transactions per second at a near-zero cost. The TODA Protocol enables P2P atomic swap exchange between blockchains without depending on third parties.
+
+----
+
+Imageblock-img: cosmos-earth-space-5439.jpg
+
+----
+
+Imageblock2-title: Scalability & True Decentralization
+
+----
+
+Imageblock2-enable: true
+
+----
+
+Imageblock2-text: 
+
+TODA uses Proof of Actual Work (PoAW) as the consensus mechanism that securely and instantaneously validates the ownership in packets across a fully saturated binary search tree (the ‘Toda Tree’) and on-chain validation of a change in ownership within 60 seconds. 
+
+The “work” in PoAW consensus is distributed computing using temporal coupling of other objects to construct a Merkle tree, with a Merkle proof binding to the Merkle root. The packets act as scarce units of value that store cryptographic proofs of their past and current holders. 
+
+Rather than a linear relationship between cost and network throughput, the amount of computation required for a particular transaction is logarithmic to the size of the network. This enables scaling  to an arbitrary number of nodes or devices while achieving a throughput of millions of transactions per second. Each node uses a tiny fraction of its capacity, thereby minimizing the amount of ‘work’ per transaction and resulting in a near-zero cost base.
+
+----
+
+Imageblock2-img: environment-forest-grass-142497.jpg
+
+----
+
+Imageblock3-title: Scalable and Robust Architecture
+
+----
+
+Imageblock3-enable: true
+
+----
+
+Imageblock3-text: 
+
+* Scales the number of transactions per second in proportion to the number of users in the system
+
+* Allows two-way trust-free atomic swaps of any network packet between any 2 blockchains operating on top of Toda
+
+* Confirmation of irrefutability (true transaction finality) in 60 seconds. 
+
+* The protocol runs on any communication device (smartphone, fridge, tv etc) using the energy equivalent of only 3% of an average smartphone
+
+* Computational effort per transaction is consistent and equally distributed by design and across devices 
+
+* True privacy with the ability to comply with data ownership, privacy & confidentiality laws
+
+----
+
+Imageblock3-img: 2.jpg
+
+----
+
+Imageblock4-title: S.E.C.S
+
+----
+
+Imageblock4-enable: true
+
+----
+
+Imageblock4-text: 
+
+**Security**
+TODA has a robust autonomous decentralized governance model that is open, permissionless and borderless. It avoids the emergent “concentration-of-power effects” that plague existing decentralized systems using some of the most effective crypto-economic techniques that ensure that the cost of any attacks outweighs its possible benefits. 
+
+**Efficiency**
+Each node uses a tiny fraction of its capacity, thereby minimizing the amount of ‘work’ per transaction and resulting in a near-zero cost base. Ie. If a ledger based system such as Bitcoin utilized TODA, the amount of bitcoins generated in a given period of time would increase exponentially with the number of users.
+
+**Confidentiality**
+Every packet that contains the cryptographic proof of ownership resides within the device of the owner. The flexibility and ability to comply with regulatory boards and regulations, particularly those that exist and serve to protect the user,  is unprecedented. A participant, should they choose, has the ability to track provenance with immutability and irrefutability. 
+
+**Scalability**
+The throughput increases as the number of nodes increase.
+
+----
+
+Imageblock4-img: Artboard 4.png
+
+----
+
+Imageblock5-title: Use Cases
+
+----
+
+Imageblock5-enable: true
+
+----
+
+Imageblock5-text: 
+
+The possible deployments include, but are not limited to, finance, fashion, space, healthcare, education, IOT, infrastructure, and any use case that involves transactions of digital assets and information. Testing the use of other ledger based systems (Bitcoin) on top of TODA is also underway. 
+****
+**Examples**
+
+* A decentralized mobile marketplace for merchants and consumers that can support transactions of
+digital assets, fiat currencies and a new asset backed digital currency, the Toda Note, which is designed to provide liquidity within the Toda system without binding the platform to a single currency throughout its existence. (Since Toda functions at a layer underneath value exchange protocols, it can host many different value exchange systems.)
+
+* Ownership management of digital assets, or the digital representation of physical assets.
+
+* Two-way atomic transactions alleviate the need for escrow-based exchanges, allowing trust-free commerce (e.g., a user can purchase a digital good online using Toda and have 100% confidence in both the receipt of that purchase and that the payment channel will not be abused prior to the receipt).
+
+* Reward points, video game assets, loyalty tokens: TODA allows closed or semi-closed sandboxes to be built in an open ecosystem, providing the advantages of both aspects to the system design.
+
+----
+
+Imageblock5-img: cellphone-close-up-communication-367273.jpg
+
+----
+
+Showcase-title: Read our Whitepaper to Learn More
+
+----
+
+Showcase-enable: true
+
+----
+
+Showcase-text: Click to (link: http:// text: link).
