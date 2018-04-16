@@ -20,4 +20,5 @@
 </head>
 
 <body>
+<script>document.body.className += ' fade-out';</script>
   <?php snippet('menu') ?>

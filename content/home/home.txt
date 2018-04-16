@@ -14,7 +14,7 @@ Cover-subtitle: Security, Efficiency, Confidentiality and Scalability by Design
 
 ----
 
-Cover-img: 5.jpg
+Cover-img: 
 
 ----
 
@@ -30,7 +30,7 @@ Imageblock-text: The TODA protocol is a layer-zero, ledger-less, fully decentral
 
 ----
 
-Imageblock-img: cosmos-earth-space-5439.jpg
+Imageblock-img: cosmos.jpg
 
 ----
 
@@ -52,7 +52,7 @@ Rather than a linear relationship between cost and network throughput, the amoun
 
 ----
 
-Imageblock2-img: environment-forest-grass-142497.jpg
+Imageblock2-img: forest.jpg
 
 ----
 
@@ -80,35 +80,43 @@ Imageblock3-text:
 
 ----
 
-Imageblock3-img: 2.jpg
+Imageblock3-img: arch.jpg
 
 ----
 
-Imageblock4-title: S.E.C.S
+Secs-enable: true
 
 ----
 
-Imageblock4-enable: true
+Secs-title1: Security
 
 ----
 
-Imageblock4-text: 
-
-**Security**
-TODA has a robust autonomous decentralized governance model that is open, permissionless and borderless. It avoids the emergent “concentration-of-power effects” that plague existing decentralized systems using some of the most effective crypto-economic techniques that ensure that the cost of any attacks outweighs its possible benefits. 
-
-**Efficiency**
-Each node uses a tiny fraction of its capacity, thereby minimizing the amount of ‘work’ per transaction and resulting in a near-zero cost base. Ie. If a ledger based system such as Bitcoin utilized TODA, the amount of bitcoins generated in a given period of time would increase exponentially with the number of users.
-
-**Confidentiality**
-Every packet that contains the cryptographic proof of ownership resides within the device of the owner. The flexibility and ability to comply with regulatory boards and regulations, particularly those that exist and serve to protect the user,  is unprecedented. A participant, should they choose, has the ability to track provenance with immutability and irrefutability. 
-
-**Scalability**
-The throughput increases as the number of nodes increase.
+Secs-text1: TODA has a robust autonomous decentralized governance model that is open, permissionless and borderless. It avoids the emergent “concentration-of-power effects” that plague existing decentralized systems using some of the most effective crypto-economic techniques that ensure that the cost of any attacks outweighs its possible benefits.
 
 ----
 
-Imageblock4-img: Artboard 4.png
+Secs-title2: Efficiency
+
+----
+
+Secs-text2: Each node uses a tiny fraction of its capacity, thereby minimizing the amount of ‘work’ per transaction and resulting in near-zero cost base. Ie. If a ledger based system such as Bitcoin utilized TODA, the amount of bitcoins generated in a given period of time would increase exponentially with the number of users.
+
+----
+
+Secs-title3: Confidentiality
+
+----
+
+Secs-text3: Every packet that contains the cryptographic proof of ownership resides within the device of the owner. The flexibility and ability to comply with regulatory boards and regulations, particularly those that exist and serve to protect the user,  is unprecedented. A participant, should they choose, has the ability to track provenance with immutability and irrefutability.
+
+----
+
+Secs-title4: Scalability
+
+----
+
+Secs-text4: The throughput increases as the number of nodes increase.
 
 ----
 
@@ -137,7 +145,7 @@ digital assets, fiat currencies and a new asset backed digital currency, the Tod
 
 ----
 
-Imageblock5-img: cellphone-close-up-communication-367273.jpg
+Imageblock5-img: uses.jpg
 
 ----
 

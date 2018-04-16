@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300, 500,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300, 500,700');
 
 /**
  * 01 - General
@@ -24,6 +24,10 @@
   margin: 0;
   padding: 0px;
 }
+
+html {
+	background-color:#0a0c16;
+}
  
 body {
   -webkit-font-smoothing: antialiased;
@@ -31,6 +35,13 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   line-height: 1.85em;
+  opacity: 1;
+  transition: 1s opacity;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -43,7 +54,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 h1, .h1 {
   font-size: 5.5em;
   line-height: 1.5em;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 h2, .h2 {
@@ -79,15 +90,9 @@ h6, .h6 {
   font-weight: 500;
   line-height: 1.5em;
 }
-
-a {
-	color:#999999;}
-}
-a:hover {color:#333333;}
-
 @media all and (max-width: 767px) {
   h1, .h1 {
-    font-size: 2.35em;
+    font-size: 2.3em !important;
     line-height: 1.36em;
   }
   h2, .h2 {
@@ -105,8 +110,13 @@ a:hover {color:#333333;}
   }
 }
 
-a:hover {
-  text-decoration: none;
+a {
+	color:#999999;
+}
+
+a:hover, a:focus {
+	color:#333333 !important;
+    text-decoration: none;
 }
 
 img {
@@ -167,7 +177,7 @@ section {
   }
 }
 
-section:not(.cover):not(.showcase):not(.text-center):not(.project-body) {
+section:not(.cover):not(.showcase):not(.text-center):not(.project-body):not(.secs) {
   padding-top: 0;
 }
 
@@ -289,6 +299,14 @@ section.article {
 
 .navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
   background-color: #fff;
+}
+
+.navbar-toggle .icon-bar {
+	width:14px;
+}
+.navbar-toggle {
+margin-right:2px;
+border:none;
 }
 
 @media only screen and (max-width: 766px) {
@@ -426,7 +444,7 @@ section.article {
 /** 07 - Backgrounds **/
 
 .bg-primary {
-  background-color: #3366cc;
+  background-color: #0a0c16;
   color: #fff;
 }
 
@@ -539,9 +557,13 @@ section.article {
 .team img {
 	width:100%;
 	height:auto;
-	max-width:400px;
+	max-width:390px;
 	border-radius:50%;
 }
+.col-sm-4:nth-child(3n+1){
+    clear: left;
+}
+
 
 
 /** 11 - Project **/

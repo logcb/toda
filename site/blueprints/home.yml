@@ -34,7 +34,7 @@ fields:
       type:             selector
       mode:             single
 
-    tab3:
+    tab2:
       label:            Imageblock
       type:             tabs
       icon:             list-alt
@@ -58,7 +58,7 @@ fields:
       type:             selector
       mode:             single
 
-    tab6:
+    tab3:
       label:            Imageblock2
       type:             tabs
       icon:             list-alt
@@ -82,7 +82,7 @@ fields:
       type:             selector
       mode:             single
 
-    tab9:
+    tab4:
       label:            Imageblock3
       type:             tabs
       icon:             list-alt
@@ -106,31 +106,51 @@ fields:
       type:             selector
       mode:             single
 
-    tab12:
-      label:            Imageblock4
+    tab5:
+      label:            secs
       type:             tabs
       icon:             list-alt
-    imageblock4_title:
-      label:            Title
-      type:             text
-      width:            1/2
-    imageblock4_enable:
+    secs_enable:
       label:            enabled/disabled
       type:             switch
       texts:
                         - enabled
                         - disabled
-      width:            1/2
       required:         true
-    imageblock4_text:
-      label:            Text
+    secs_title1:
+      label:            Title 1
+      type:             text
+      width:            1/2
+    secs_text1:
+      label:            Text 1
       type:             markdown
-    imageblock4_img:
-      label:            Image
-      type:             selector
-      mode:             single
-   
-    tab15:
+      width:            1/2
+    secs_title2:
+      label:            Title 2
+      type:             text
+      width:            1/2
+    secs_text2:
+      label:            Text 2
+      type:             markdown
+      width:            1/2
+    secs_title3:
+      label:            Title 3
+      type:             text
+      width:            1/2
+    secs_text3:
+      label:            Text 3
+      type:             markdown
+      width:            1/2
+    secs_title4:
+      label:            Title 4
+      type:             text
+      width:            1/2
+    secs_text4:
+      label:            Text 4
+      type:             markdown
+      width:            1/2
+
+    tab6:
       label:            Imageblock5
       type:             tabs
       icon:             list-alt
@@ -154,7 +174,7 @@ fields:
       type:             selector
       mode:             single
 
-    tab18:
+    tab7:
       label:            Showcase
       type:             tabs
       icon:             image

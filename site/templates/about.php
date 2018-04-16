@@ -34,7 +34,7 @@
               <img alt="Image" src="<?= $image->url() ?>">
               <?php endif ?>
               <h5><?= $t->title() ?></h5>
-              <span><?= $t->position() ?></span>
+              <p><?= $t->position() ?></p>
               <p><?= $t->about() ?></p>
             </div>
           </div>
@@ -74,7 +74,7 @@
               <img alt="Image" src="<?= $image->url() ?>">
               <?php endif ?>
               <h5><?= $t->title() ?></h5>
-              <span><?= $t->position() ?></span>
+              <p><?= $t->position() ?></p>
               <p><?= $t->about() ?></p>
             </div>
           </div>

@@ -7,8 +7,8 @@ email: isaac@logcb.com
 language: en
 role: admin
 history:
+  - about/mark-griffith
   - home
   - about/exec/sergey-gorbunov
   - about/exec/silvio-micali
   - about/exec/todd-gebhart
-  - about/exec/lila-tretikov
